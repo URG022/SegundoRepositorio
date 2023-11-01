@@ -1,0 +1,57 @@
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\bin\Debug\PruebaConexionDB.exe.config
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\bin\Debug\PruebaConexionDB.exe
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\bin\Debug\PruebaConexionDB.pdb
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.AssemblyReference.cache
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.Properties.Resources.resources
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.GenerateResource.cache
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.exe
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.pdb
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\bin\Debug\System.Data.SqlClient.dll
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\bin\Debug\System.Data.SqlClient.xml
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.CopyComplete
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.Login.resources
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.menuAdmin.resources
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.menuUsuarios.resources
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.AgregarUsuario.resources
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.principalUsuario.resources
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.eliminarUsuario.resources
+D:\Proyectos C#\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.modificarUsuario.resources
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\bin\Debug\PruebaConexionDB.exe.config
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\bin\Debug\PruebaConexionDB.exe
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\bin\Debug\PruebaConexionDB.pdb
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.AgregarUsuario.resources
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.eliminarUsuario.resources
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.Login.resources
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.menuAdmin.resources
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.menuUsuarios.resources
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.modificarUsuario.resources
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.principalUsuario.resources
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.exe
+C:\Users\MINEDUCYT\Desktop\PruebaConexionDB\PruebaConexionDB\obj\Debug\PruebaConexionDB.pdb
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\bin\Debug\PruebaConexionDB.exe.config
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\bin\Debug\PruebaConexionDB.exe
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\bin\Debug\PruebaConexionDB.pdb
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\bin\Debug\System.Data.SqlClient.dll
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\bin\Debug\System.Data.SqlClient.xml
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.AssemblyReference.cache
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.AgregarUsuario.resources
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.eliminarUsuario.resources
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.Login.resources
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.menuAdmin.resources
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.menuUsuarios.resources
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.modificarUsuario.resources
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.principalUsuario.resources
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.Properties.Resources.resources
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.GenerateResource.cache
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.csproj.CopyComplete
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.exe
+D:\Proyectos C#\DiseñoProgramacion\PruebaConexionDB\obj\Debug\PruebaConexionDB.pdb
